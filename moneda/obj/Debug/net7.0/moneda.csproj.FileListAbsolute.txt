@@ -1,0 +1,15 @@
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp92023\tl1_tp9_2023-rubenguzman48\moneda\obj\Debug\net7.0\moneda.csproj.AssemblyReference.cache
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp92023\tl1_tp9_2023-rubenguzman48\moneda\obj\Debug\net7.0\moneda.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp92023\tl1_tp9_2023-rubenguzman48\moneda\obj\Debug\net7.0\moneda.AssemblyInfoInputs.cache
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp92023\tl1_tp9_2023-rubenguzman48\moneda\obj\Debug\net7.0\moneda.AssemblyInfo.cs
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp92023\tl1_tp9_2023-rubenguzman48\moneda\obj\Debug\net7.0\moneda.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp92023\tl1_tp9_2023-rubenguzman48\moneda\bin\Debug\net7.0\moneda.exe
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp92023\tl1_tp9_2023-rubenguzman48\moneda\bin\Debug\net7.0\moneda.deps.json
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp92023\tl1_tp9_2023-rubenguzman48\moneda\bin\Debug\net7.0\moneda.runtimeconfig.json
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp92023\tl1_tp9_2023-rubenguzman48\moneda\bin\Debug\net7.0\moneda.dll
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp92023\tl1_tp9_2023-rubenguzman48\moneda\bin\Debug\net7.0\moneda.pdb
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp92023\tl1_tp9_2023-rubenguzman48\moneda\obj\Debug\net7.0\moneda.dll
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp92023\tl1_tp9_2023-rubenguzman48\moneda\obj\Debug\net7.0\refint\moneda.dll
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp92023\tl1_tp9_2023-rubenguzman48\moneda\obj\Debug\net7.0\moneda.pdb
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp92023\tl1_tp9_2023-rubenguzman48\moneda\obj\Debug\net7.0\moneda.genruntimeconfig.cache
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp92023\tl1_tp9_2023-rubenguzman48\moneda\obj\Debug\net7.0\ref\moneda.dll
